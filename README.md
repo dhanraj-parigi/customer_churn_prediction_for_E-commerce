@@ -55,14 +55,10 @@ The web app is built with **Streamlit** for interactive visualization and usage.
 ## 🏃‍♂️ How to Run Locally
 
 1. 📦 **Install dependencies**
-
-```bash
-pip install -r requirements.txt
+     pip install -r requirements.txt
 
 2. ▶️ Run the Streamlit App
-
-``` bash
-streamlit run app.py
+        streamlit run app.py
 
 3. 🌍 Open http://localhost:8501/ in your browser
 
